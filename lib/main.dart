@@ -357,10 +357,6 @@ class _MyHomePageState extends State<MyHomePage> with SingleTickerProviderStateM
           key: scaffoldKey,
           appBar: AppBar(
             title: const Text('Visual Density'),
-//            bottom: PreferredSize(
-//              preferredSize: const Size.fromHeight(220.0),
-//              child: Options(_model),
-//            ),
             backgroundColor: const Color(0xff323232),
           ),
           body: DefaultTextStyle(
