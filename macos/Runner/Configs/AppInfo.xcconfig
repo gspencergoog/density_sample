@@ -8,7 +8,7 @@
 PRODUCT_NAME = density_sample
 
 // The application's bundle identifier
-PRODUCT_BUNDLE_IDENTIFIER = dev.flutter.densitySample
+PRODUCT_BUNDLE_IDENTIFIER = com.example.densitySample
 
 // The copyright displayed in application information
-PRODUCT_COPYRIGHT = Copyright © 2019 dev.flutter. All rights reserved.
+PRODUCT_COPYRIGHT = Copyright © 2019 com.example. All rights reserved.
